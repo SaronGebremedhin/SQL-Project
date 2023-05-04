@@ -15,7 +15,7 @@ opportunities to improve their assortment, and stay on top of trends.
 The data source is Ulta's Top Sellers Skincare page which can be reached using this URL: https://www.ulta.com/shop/skin-care/all?sort=best_sellers. 
 I web scarped the URL to find information on the top-selling skin-care products at Ulta. The dataset contains 96 rows of products. 
 The characteristics of the data include product names, brand names, prices, and customer ratings.
-
+## Notebooks
 The data_collection.ipynb notebook collects and cleans the Ulta data, and the sql_analysis.ipynb notebook analyzes the data using SQL queries. 
 The data_collection.ipynb notebook includes code for loading the data into a Pandas dataframe and cleaning the data, including handling missing values and formatting columns. 
 The sql_analysis.ipynb notebook includes SQL queries that analyze the data and answer various business questions.
