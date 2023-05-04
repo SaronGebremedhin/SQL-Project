@@ -1,4 +1,4 @@
-# SQL-Project
+# SQL-Project: Sephora Merchandising Analysis
 The project name is "Sephora Merchandising Analysis". 
 The objective is to analyze Ulta's data and provide actionable insights for Sephora's merchandising team to 
 improve their product assortment and sales. The problem being solved is that Sephora wants to improve its product 
